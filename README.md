@@ -16,8 +16,8 @@ The overarching goal is to support the efforts to reduce the death caused by ski
 Among skin cancer diseases, melanoma is one of the most common and most dangerous ones, being difficult to detect and causing serious problems once spread deeper. Melanomas have many different shapes, sizes, and colours, thus making it harder to provide comprehensive warning signs. Detecting melanoma early is of utmost importance. Neural Networks provide significant progress in this field, making it possible to detect melanomas with many previously learned patterns, dealing with larger datasets than a human specialist can handle.
 
 ## Directory structure and files
-[directory structure](https://drive.google.com/drive/u/2/my-drive)
-[directory structure](images/directorystructure.png)
+* [Data Retrieve](https://drive.google.com/drive/u/2/my-drive)
+* [directory structure](images/directorystructure.png)
 
 ## Technologies Used
 - #Google Colaboratory
